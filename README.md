@@ -1,16 +1,16 @@
-# TechMart
+# MechKeyMart
 
-### Live URL: &nbsp; &nbsp; [TechMart.netlify.app]( https://mechkeymart.netlify.app/)
+### Live URL: &nbsp; &nbsp; [MechKeyMart.netlify.app]( https://mechkeymart.netlify.app/)
 
-### SERVER REPO: &nbsp; &nbsp; [github.com/mdsejan/TechMart-server](https://github.com/mdsejan/TechMart-server)
+### SERVER REPO: &nbsp; &nbsp; [github.com/JobaerAbdi/assignment-4-server](https://github.com/JobaerAbdi/assignment-4-server)
 
 ## Introduction
 
-TechMart is a modern e-commerce platform dedicated to mechanical keyboards. It is designed to provide a seamless shopping experience for keyboard enthusiasts, featuring easy product browsing, detailed product pages, and a smooth cart system.
+MechKeyMart is a modern e-commerce platform dedicated to mechanical keyboards. It is designed to provide a seamless shopping experience for keyboard enthusiasts, featuring easy product browsing, detailed product pages, and a smooth cart system.
 
 ## Project Description
 
-TechMart is built using React, Redux, Mongoose, and Express. This e-commerce site allows users to browse and purchase mechanical keyboards with ease. It includes powerful admin tools for product management, advanced search and filtering options, and optional integration with Stripe for secure payments.
+MechKeyMart is built using React, Redux, Mongoose, and Express. This e-commerce site allows users to browse and purchase mechanical keyboards with ease. It includes powerful admin tools for product management, advanced search and filtering options, and optional integration with Stripe for secure payments.
 
 ## Features
 
@@ -47,7 +47,7 @@ TechMart is built using React, Redux, Mongoose, and Express. This e-commerce sit
 2. Navigate to the project directory:
 
    ```bash
-   cd TechMart
+   cd MechKeyMart
    ```
 
 3. Install dependencies:
